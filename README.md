@@ -41,8 +41,23 @@
 ## Project Goals
 
 ### User Goals
+- Find a restaurant with oriental cuisine.
+- Find a restaurant where you can eat good quality food.
+- Find a place where you can spend time with family / friends in a nice atmosphere.
+- Find a place where you can try something new / different.
+- Find the restaurant localisation & contact details.
+- Contact the restaurant through the page.
+- Read about restaurant.
+- Check the restaurant menu & prices.
 
 ### Site Owner Goals
+- Promote the restaurant on the internet.
+- Provide contact details for the users of the website.
+- Provide the online form of contact.
+- Show restaurant menu for existing and potential new customers.
+- Provide links to the restaurant's social media.
+- Make website responsive for phone devices.
+- Increase profit & amount of customers.
 
 ## User Experience
 
