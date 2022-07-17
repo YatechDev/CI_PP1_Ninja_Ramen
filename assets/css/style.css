@@ -3,3 +3,8 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/* Set font-size to 62.5% to easy maintain that 10px = 1rem */
+html {
+    font-size: 62.5%;
+}
