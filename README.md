@@ -117,6 +117,23 @@
 ### Structure
 
 ### Wireframes
+This is the prototype of the project that may change during its development.
+
+<details><summary>Home</summary>
+<img src="docs/wireframes/home.png" alt="Wireframe of Home-Page">
+</details>
+<details><summary>About</summary>
+<img src="docs/wireframes/about.png" alt="Wireframe of About-Page">
+</details>
+<details><summary>Menu</summary>
+<img src="docs/wireframes/menu.png" alt="Wireframe of Menu-Page">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/wireframes/gallery.png" alt="Wireframe of Gallery-Page">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/wireframes/contact.png" alt="Wireframe of Contact-Page">
+</details>
 
 ## Technologies Used
 
