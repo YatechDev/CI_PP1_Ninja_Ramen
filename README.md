@@ -56,14 +56,27 @@
 - Provide the online form of contact.
 - Show restaurant menu for existing and potential new customers.
 - Provide links to the restaurant's social media.
-- Make website responsive for phone devices.
+- Make website responsive for mobile devices.
 - Increase profit & amount of customers.
 
 ## User Experience
 
 ### Target Audience
-
+- People who looking for a place to eat oriental cuisine.
+- People who looking for a place to pend time with family / friends in a nice atmosphere.
+- People who want to book a table for a meeting in a place with a high standard.
+- People who are looking for a place to celebrate a birthday.
+- People who want to organise parties & events.
+- 
 ### User Requirements and Expectations
+- A website that is quick to load.
+- Responsive website for mobile devices.
+- Easy navigation system.
+- A website where you can quickly and easily find the essential information.
+- Easy to find the restaurant's menu with prices.
+- Easy way to contact the restaurant online.
+- Find links for social media.
+- Simple and interesting content.
 
 ### User Stories
 
