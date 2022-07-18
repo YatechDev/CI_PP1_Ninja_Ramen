@@ -2,8 +2,10 @@
 /* GENERAL RULES */
 /***************/
 
+/*** 'Roboto' font ***/
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+/*** Basic reset ***/
 * {
     padding: 0;
     margin: 0;
@@ -96,6 +98,8 @@ nav ul li a:hover{
     border-radius: 2.5rem;
     transition: .2s;
 }
+
+/*** Hamburger Menu hide for screen > 944px ***/
 .check-btn{
     font-size: 3.2rem;
     color: white;
@@ -145,6 +149,7 @@ nav ul li a:hover{
     margin-bottom: 4.8rem;
 }
 
+/*** Hero buttons ***/
 .btn:link,
 .btn:visited {
     display: inline-block;
@@ -157,6 +162,7 @@ nav ul li a:hover{
     margin: 0 1rem;
 }
 
+/*** Hero Miniatures ***/
 .hero-gallery {
     display: flex;
     align-items: center;
@@ -186,8 +192,7 @@ nav ul li a:hover{
     font-weight: 700;
 }
 
-/*** Info Section ***/
-
+/*** Restaurant Goals ***/
 .goals {
     padding-bottom: 4.8rem;
 }
