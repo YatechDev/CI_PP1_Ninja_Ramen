@@ -162,11 +162,19 @@ This is the prototype of the project that may change during its development.
 ### Testing user stories
 
 ## Bugs
+1.
+| **Bug**                                                    | **Fix**                                                                          |
+|------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Font Awesome icons are not displaying on Safari browser. | Remove link for Font Awesome script, link css stylesheet and make local library. |
 
-| **Bug**     | **Fix**        |
-|-------------|----------------|
-| Some bug    | The fix for it |
-| another bug | another fix    |
+Tested on iPhone 11 PRO & iPhone XR
+
+<details><summary>Before</summary>
+<img src="docs/bugs/icons-before.PNG" alt="Screenshot of bug with icons">
+</details>
+<details><summary>After</summary>
+<img src="docs/bugs/icons-after.PNG" alt="Screenshot for fixed icons">
+</details>
 
 
 ## Deployment
