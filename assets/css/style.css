@@ -146,6 +146,16 @@ footer a:hover {
 
 .footer-contact ul li {
     margin: 0.5rem 1.5rem 1rem 1.5rem;
+    font-size: 1.6rem;
+}
+
+.copyrights  p {
+    font-size: 1.4rem;
+    padding-bottom: 0.5rem;
+}
+
+.copyrights a {
+    text-decoration: none;
 }
 
 /***************/
