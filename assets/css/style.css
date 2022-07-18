@@ -163,7 +163,7 @@ footer a:hover {
 /***************/
 
 .section-hero {
-    background-image: url("../images/background-image.jpg");
+    background-image: url("../images/backgrounds/bg-home.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
