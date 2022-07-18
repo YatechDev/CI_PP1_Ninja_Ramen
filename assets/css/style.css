@@ -1,3 +1,7 @@
+/***************/
+/* GENERAL RULES */
+/***************/
+
 * {
     padding: 0;
     margin: 0;
@@ -8,6 +12,10 @@
 html {
     font-size: 62.5%;
 }
+
+/***************/
+/* HEADER */
+/***************/
 
 .header {
     width: 100%;
@@ -22,6 +30,10 @@ html {
 .header-logo {
     height: 2.4rem;
 }
+
+/***************/
+/* NAVIGATION */
+/***************/
 
 nav ul li{
     display: inline-block;
