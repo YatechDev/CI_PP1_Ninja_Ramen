@@ -290,7 +290,7 @@ footer a:hover {
     .check-btn{
         display: block;
     }
-    ul{
+    nav ul{
         position: fixed;
         width: 100%;
         height: 100vh;
@@ -325,6 +325,18 @@ footer a:hover {
 /* Phones */
 @media (max-width: 544px) {
 
+    .footer-contact {
+        margin: 20px;
+        text-align: center
+    }
+
+    .footer-contact ul{
+        display: grid
+    }
+
+    .copyrights {
+        padding: 0 20px;
+    }
 }
 
 /* Small phones */
