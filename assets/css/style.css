@@ -315,6 +315,19 @@ footer a:hover {
     #hamburger:checked ~ ul{
         left: 0;
     }
+
+    .hero-outer{
+        padding: 15px;
+    }
+
+    .goals {
+        display: inline-block;
+    }
+
+    .goals div {
+        margin: 15px auto;
+    }
+
 }
 
 /* Small tablets */
