@@ -114,6 +114,37 @@ nav ul li a:hover{
 }
 
 /***************/
+/* FOOTER */
+/***************/
+
+footer {
+    background-color: #161a1d;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    font-size: 1.4rem;
+}
+
+footer ul {
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    list-style: none;
+}
+
+.socials ul li {
+    margin: 1rem 2.5rem 0.5rem 2.5rem;
+    font-size: 2.8rem;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer a:hover {
+    color: red;
+}
+
+/***************/
 /* HERO SECTION */
 /***************/
 
