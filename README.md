@@ -163,8 +163,9 @@ This is the prototype of the project that may change during its development.
 
 ## Bugs
 1.
-| **Bug**                                                    | **Fix**                                                                          |
-|------------------------------------------------------------|----------------------------------------------------------------------------------|
+
+| **Bug**                                                  | **Fix**                                                                          |
+|----------------------------------------------------------|----------------------------------------------------------------------------------|
 | Font Awesome icons are not displaying on Safari browser. | Remove link for Font Awesome script, link css stylesheet and make local library. |
 
 Tested on iPhone 11 PRO & iPhone XR
@@ -176,6 +177,18 @@ Tested on iPhone 11 PRO & iPhone XR
 <img src="docs/bugs/icons-after.PNG" alt="Screenshot for fixed icons">
 </details>
 
+2.
+
+| **Bug**                                     | **Fix**                                             |
+|---------------------------------------------|-----------------------------------------------------|
+| Hovered images are covered by other images. | Set position for relative and use z-index property. |
+
+<details><summary>Before</summary>
+<img src="docs/bugs/hover-before.png" alt="Screenshot of bug with hovered image">
+</details>
+<details><summary>After</summary>
+<img src="docs/bugs/hover-after.png" alt="Screenshot for fixed hovered image">
+</details>
 
 ## Deployment
 
