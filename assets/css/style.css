@@ -281,7 +281,7 @@ footer a:hover {
 /***************/
 
 .section-gallery {
-    background-image: url("../images/backgrounds/bg-gallery.jpg");
+    background-image: url("../images/backgrounds/bg-gallery.webp");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
