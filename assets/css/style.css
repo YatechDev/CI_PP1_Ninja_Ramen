@@ -167,7 +167,7 @@ footer a:hover {
 /***************/
 
 .section-hero {
-    background-image: url("../images/backgrounds/bg-home.jpg");
+    background-image: url("../images/backgrounds/bg-home.webp");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -328,7 +328,7 @@ footer a:hover {
 /***************/
 
 .section-contact {
-    background-image: url("../images/backgrounds/bg-contact.jpg");
+    background-image: url("../images/backgrounds/bg-contact.webp");
     background-size: cover;
     background-position: center;
     background-attachment: fixed
