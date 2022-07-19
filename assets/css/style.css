@@ -429,6 +429,13 @@ footer a:hover {
 /* Landscape tablets */
 @media (max-width: 1200px) {
 
+    .contact-outer {
+        display: grid;
+    }
+
+    .contact-container {
+        display: inline-block;
+    }
 }
 
 /* Tablets */
@@ -500,5 +507,18 @@ footer a:hover {
 
 /* Small phones */
 @media (max-width: 400px) {
+
+    .contact-logo {
+        height: 25px;
+    }
+
+    .map-box {
+        display:flex;
+        justify-content: center;
+    }
+
+    .map-box iframe {
+        max-width: 250px;
+    }
 
 }
