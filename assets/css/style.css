@@ -277,6 +277,18 @@ footer a:hover {
 }
 
 /***************/
+/* ABOUT */
+/***************/
+
+.section-menu {
+    background-image: url("../images/backgrounds/bg-about.webp");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+/***************/
 /* MENU */
 /***************/
 
