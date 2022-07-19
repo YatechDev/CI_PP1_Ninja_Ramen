@@ -285,7 +285,37 @@ footer a:hover {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    color: #fff;
 }
+
+.about-outer {
+    padding: 4.8rem 0;
+}
+
+.about-container {
+    background-color: rgb(0, 0, 0, 0.8);
+    backdrop-filter: blur(10px);
+    border: 1px solid #fff;
+    border-radius: 2rem;
+}
+
+.about-left-box,
+.about-right-box {
+    padding: 4.8rem 0;
+}
+
+.about-right-box p {
+    margin-bottom: 2rem;
+    font-size: 1.8rem;
+    line-height: 1.2;
+}
+
+.about-left-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
 
 /***************/
