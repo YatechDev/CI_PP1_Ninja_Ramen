@@ -181,6 +181,7 @@ footer a:hover {
     background: rgba(255,255,255,0.5);
     box-shadow: 0 15px 35px rgba(0,0,0,0.05);
     backdrop-filter: blur(10px);
+    border: 1px solid red;
     border-radius: 20px;
     max-width: 150rem;
     margin: 0 auto;
@@ -250,6 +251,7 @@ footer a:hover {
     background: rgba(255,255,255,0.5);
     box-shadow: 0 15px 35px rgba(0,0,0,0.05);
     backdrop-filter: blur(5px);
+    border: 1px solid red;
     border-radius: 20px;
     padding: 2rem;
 }
