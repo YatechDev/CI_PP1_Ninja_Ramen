@@ -311,7 +311,7 @@ footer a:hover {
 }
 
 .about-left-box {
-    display: flex;
+    display: grid;
     justify-content: center;
     align-items: center;
 }
