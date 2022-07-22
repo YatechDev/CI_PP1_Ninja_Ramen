@@ -479,7 +479,8 @@ footer a:hover {
 }
 
 .contact-heading {
-    padding-top: 2.4rem;
+    padding: 2.4rem 0;
+    border-bottom: 1px solid #fff;
 }
 
 .contact-container {
