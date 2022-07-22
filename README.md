@@ -190,6 +190,19 @@ Tested on iPhone 11 PRO & iPhone XR
 <img src="docs/bugs/hover-after.png" alt="Screenshot for fixed hovered image">
 </details>
 
+3
+
+| **Bug**                                            | **Fix**               |
+|----------------------------------------------------|-----------------------|
+| Navbar after scrolling is covered by page content. | Use z-index property. |
+
+<details><summary>Before</summary>
+<img src="docs/bugs/navbar-before.png" alt="Screenshot of bug covered navbar">
+</details>
+<details><summary>After</summary>
+<img src="docs/bugs/navbar-after.png" alt="Screenshot for fixed navbar">
+</details>
+
 ## Deployment
 
 ## Credits
