@@ -213,6 +213,7 @@ footer a:hover {
     text-decoration: none;
     font-size: 2rem;
     padding: 1.6rem 3.2rem;
+    border: 1px solid red;
     border-radius: 1rem;
     margin: 0 1rem;
 }
