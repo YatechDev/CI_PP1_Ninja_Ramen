@@ -295,6 +295,11 @@ footer a:hover {
     padding: 4.8rem 0;
 }
 
+.about-heading {
+    padding-bottom: 2.4rem;
+    border-bottom: 1px solid #fff;
+}
+
 .about-container {
     background-color: rgb(0, 0, 0, 0.8);
     backdrop-filter: blur(10px);
