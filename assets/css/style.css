@@ -475,6 +475,10 @@ footer a:hover {
     padding: 4.8rem 0;
 }
 
+.contact-heading {
+    padding-top: 2.4rem;
+}
+
 .contact-container {
     background-color: rgb(0, 0, 0, 0.8);
     backdrop-filter: blur(10px);
