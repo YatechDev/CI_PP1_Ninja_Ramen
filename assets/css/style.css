@@ -571,6 +571,52 @@ footer a:hover {
     margin-bottom: 2.4rem;
 }
 
+/***************/
+/* 404 PAGE */
+/***************/
+
+.section-page-404 {
+    background-color: black;
+    color: #fff;
+}
+
+.page-404-outer {
+    padding: 4.8rem 0;
+    }
+
+.page-404-heading {
+    padding-bottom: 2.4rem;
+    border-bottom: 1px solid #fff;
+}
+
+.page-404-left-box,
+.page-404-right-box {
+    padding: 4.8rem 0;
+}
+.page-404-container {
+    background-color: rgb(0, 0, 0, 0.8);
+    backdrop-filter: blur(10px);
+    border: 1px solid #fff;
+    border-radius: 2rem;
+}
+
+.page-404-left-box h2 {
+    margin-bottom: 2rem;
+    font-size: 3.2rem;
+    line-height: 1.2;
+}
+
+.page-404-left-box p {
+    margin-bottom: 2rem;
+    font-size: 1.8rem;
+    line-height: 1.2;
+}
+
+.page-404-right-box {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
 
 /***************/
 /* MEDIA QUERIES */
