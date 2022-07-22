@@ -124,7 +124,7 @@ nav ul li a:hover{
 
 footer {
     background-color: #161a1d;
-    font-family: 'Roboto', sans-serif;
+    border: 1px inset gray;
     color: #fff;
     font-size: 1.4rem;
 }
