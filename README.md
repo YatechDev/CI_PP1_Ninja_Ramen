@@ -190,7 +190,7 @@ Tested on iPhone 11 PRO & iPhone XR
 <img src="docs/bugs/hover-after.png" alt="Screenshot for fixed hovered image">
 </details>
 
-3
+3.
 
 | **Bug**                                            | **Fix**               |
 |----------------------------------------------------|-----------------------|
@@ -201,6 +201,19 @@ Tested on iPhone 11 PRO & iPhone XR
 </details>
 <details><summary>After</summary>
 <img src="docs/bugs/navbar-after.png" alt="Screenshot for fixed navbar">
+</details>
+
+4.
+
+| **Bug**                                                       | **Fix**                                 |
+|---------------------------------------------------------------|-----------------------------------------|
+| Lost responsiveness of contact.html after changing html code. | Use correct class name in css document. |
+
+<details><summary>Before</summary>
+<img src="docs/bugs/contact_section-before.png" alt="Screenshot of bug with contact.html responsiveness">
+</details>
+<details><summary>After</summary>
+<img src="docs/bugs/contact_section-after.png" alt="Screenshot for fixed responsiveness of contact.html">
 </details>
 
 ## Deployment
