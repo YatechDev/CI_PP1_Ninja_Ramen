@@ -718,6 +718,14 @@ MEDIA QUERIES
         margin-bottom: 2.8rem;
     }
 
+    /* About Page */
+    .about-container {
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+        margin: 0 1rem;
+    }
+
     /* Contact Page */
     .contact-outer {
         display: grid;
