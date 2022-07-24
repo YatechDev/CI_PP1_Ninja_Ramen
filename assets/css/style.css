@@ -691,7 +691,7 @@ footer a:hover {
 
     .hero-content {
         grid-template-columns: 1fr;
-        padding: 0 8rem;
+        padding: 4rem 8rem;
         gap: 6.4rem;
     }
 
