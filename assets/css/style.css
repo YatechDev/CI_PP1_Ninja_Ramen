@@ -695,6 +695,12 @@ footer a:hover {
         gap: 6.4rem;
     }
 
+    .hero-left-box,
+    .hero-right-box {
+        text-align: center;
+    }
+
+
     .goals {
         display: inline-block;
     }
