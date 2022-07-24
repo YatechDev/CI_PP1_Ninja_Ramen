@@ -753,6 +753,10 @@ footer a:hover {
         width: 60%;
     }
 
+    .menu-outer {
+        margin: 0 10px;
+    }
+
     .main-gallery div img {
         filter: grayscale(20%);
     }
