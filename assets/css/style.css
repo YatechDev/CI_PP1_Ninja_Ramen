@@ -661,6 +661,25 @@ footer a:active {
     border-bottom: 1px solid #fff;
 }
 
+.thankyou-right-box h2 {
+    margin-bottom: 3rem;
+    font-size: 3.2rem;
+    line-height: 1.2;
+}
+
+.thankyou-right-box p {
+    margin-bottom: 3rem;
+    font-size: 1.8rem;
+    line-height: 1.2;
+}
+
+.thankyou-right-box,
+.thankyou-left-box{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
 /***************/
 /* MEDIA QUERIES */
 /***************/
