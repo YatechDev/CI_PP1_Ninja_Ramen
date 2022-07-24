@@ -335,33 +335,7 @@ footer a:hover {
 /* MENU */
 /***************/
 
-.section-menu {
-    background-image: url("../images/backgrounds/bg-menu.webp");
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-}
 
-.menu-outer {
-    padding: 4.8rem 0;
-}
-
-.menu-container {
-    max-width: 150rem;
-    background: rgba(255,255,255,0.5);
-    box-shadow: 0 15px 35px rgba(0,0,0,0.05);
-    backdrop-filter: blur(25px);
-    border-radius: 2rem;
-    border: 1px solid red;
-    padding: 4.8rem;
-    margin: 0 auto;
-}
-
-.menu-heading {
-    font-size: 5.2rem;
-    text-align: center;
-    padding-bottom: 2.8rem;
-}
 
 /***************/
 /* GALLERY */
