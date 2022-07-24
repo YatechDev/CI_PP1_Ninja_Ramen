@@ -836,6 +836,10 @@ footer a:hover {
         display: none;
     }
 
+    .page-404-outer {
+        margin: 0 1rem;
+    }
+
 }
 
 /* Phones */
