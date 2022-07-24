@@ -1,11 +1,11 @@
-/***************/
-/* GENERAL RULES */
-/***************/
+/* ==========
+GENERAL RULES
+========== */
 
-/*** 'Roboto' font ***/
+/* 'Roboto' font */
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-/*** Basic reset ***/
+/* Basic reset */
 * {
     padding: 0;
     margin: 0;
@@ -21,7 +21,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-/*** class for main headings on pages ***/
+/* class for main headings on pages */
 .main-heading {
     font-size: 5.2rem;
     font-weight: 700;
@@ -30,16 +30,17 @@ body {
     margin-bottom: 3.2rem;
 }
 
+/* class for quick switch text to white color */
 .white-text {
     color: #fff;
 }
 
-/*** class for quick center the paragraph ***/
+/* class for quick center the paragraph */
 .text-center {
     text-align: center;
 }
 
-/*** Reusable grid template ***/
+/* Reusable grid template */
 .container {
     max-width: 130em;
     padding: 0 3.2rem;
@@ -60,9 +61,9 @@ body {
     grid-template-columns: repeat(3, 1fr);
 }
 
-/***************/
-/* HEADER */
-/***************/
+/* ==========
+HEADER
+========== */
 
 .header {
     width: 100%;
@@ -83,15 +84,16 @@ body {
     height: 2.4rem;
 }
 
-/***************/
-/* NAVIGATION */
-/***************/
+/* ==========
+NAVIGATION
+========== */
 
 nav ul li{
     display: inline-block;
     line-height: 8rem;
     margin: 0 0.5rem;
 }
+
 nav ul li a{
     color: white;
     font-size: 1.8rem;
@@ -100,6 +102,7 @@ nav ul li a{
     list-style: none;
     text-decoration: none;
 }
+
 nav ul li a.active,
 nav ul li a:hover{
     background: #fff;
@@ -108,7 +111,7 @@ nav ul li a:hover{
     transition: .2s;
 }
 
-/*** Hamburger Menu hide for screen > 944px ***/
+/* Hamburger Menu hide for screen > 944px */
 .check-btn{
     font-size: 3.2rem;
     color: white;
@@ -118,13 +121,14 @@ nav ul li a:hover{
     cursor: pointer;
     display: none;
 }
+
 #hamburger{
     display: none;
 }
 
-/***************/
-/* FOOTER */
-/***************/
+/* ==========
+FOOTER
+========== */
 
 footer {
     background-color: #161a1d;
@@ -171,9 +175,9 @@ footer a:active {
     text-decoration: none;
 }
 
-/***************/
-/* HERO SECTION */
-/***************/
+/* ==========
+HERO SECTION
+========== */
 
 .section-hero {
     background-image: url("../images/backgrounds/bg-home.webp");
@@ -208,7 +212,7 @@ footer a:active {
     margin-bottom: 4.8rem;
 }
 
-/*** Hero buttons ***/
+/* Hero buttons */
 .btn:link,
 .btn:visited {
     display: inline-block;
@@ -222,7 +226,7 @@ footer a:active {
     margin: 0 1rem;
 }
 
-/*** Hero Miniatures ***/
+/* Hero Miniatures */
 .hero-gallery {
     display: flex;
     align-items: center;
@@ -252,7 +256,7 @@ footer a:active {
     font-weight: 700;
 }
 
-/*** Restaurant Goals ***/
+/* Restaurant Goals */
 .goals {
     padding-bottom: 4.8rem;
 }
@@ -288,9 +292,9 @@ footer a:active {
     font-weight: 500;
 }
 
-/***************/
-/* ABOUT */
-/***************/
+/* ==========
+ABOUT PAGE
+========== */
 
 .section-about {
     background-image: url("../images/backgrounds/bg-about.webp");
@@ -333,11 +337,9 @@ footer a:active {
     align-items: center;
 }
 
-
-
-/***************/
-/* MENU */
-/***************/
+/* ==========
+MENU PAGE
+========== */
 
 .section-menu {
     background-image: url("../images/backgrounds/bg-menu.webp");
@@ -426,9 +428,9 @@ footer a:active {
     line-height: 1.1;
 }
 
-/***************/
-/* GALLERY */
-/***************/
+/* ==========
+GALLERY PAGE
+========== */
 
 .section-gallery {
     background-image: url("../images/backgrounds/bg-gallery.webp");
@@ -481,14 +483,14 @@ footer a:active {
     z-index: 1;
 }
 
-    .video-box {
-        padding: 0.5rem;
-        border: solid 2px #829093;
+.video-box {
+    padding: 0.5rem;
+    border: solid 2px #829093;
 }
 
-/***************/
-/* CONTACT SECTION */
-/***************/
+/* ==========
+CONTACT PAGE
+========== */
 
 .section-contact {
     background-image: url("../images/backgrounds/bg-contact.webp");
@@ -540,7 +542,6 @@ footer a:active {
     left: 0;
     top: 0;
     padding: 1rem;
-
     cursor: text;
     transition: 0.2s;
 }
@@ -584,9 +585,9 @@ footer a:active {
     margin-bottom: 2.4rem;
 }
 
-/***************/
-/* 404 PAGE */
-/***************/
+/* ==========
+404 PAGE
+========== */
 
 .section-page-404 {
     background-color: black;
@@ -595,7 +596,7 @@ footer a:active {
 
 .page-404-outer {
     padding: 9.6rem 0;
-    }
+}
 
 .page-404-heading {
     padding-bottom: 2.4rem;
@@ -606,6 +607,7 @@ footer a:active {
 .page-404-right-box {
     padding: 4.8rem 0;
 }
+
 .page-404-container {
     background-color: rgb(0, 0, 0, 0.8);
     backdrop-filter: blur(10px);
@@ -632,9 +634,9 @@ footer a:active {
     align-items: center;
 }
 
-/***************/
-/* Thank You Page */
-/***************/
+/* ==========
+THANK YOU PAGE
+========== */
 
 .section-thankyou {
     background-color: black;
@@ -681,13 +683,19 @@ footer a:active {
     align-items: center;
 }
 
-/***************/
-/* MEDIA QUERIES */
-/***************/
+/* ==========
+MEDIA QUERIES
+========== */
 
 /* Smaller desktops & laptops */
 @media (max-width: 1344px) {
 
+    /* General */
+    .container {
+        max-width: 110rem;
+    }
+
+    /* Hero Section */
     .hero-outer {
         margin: 0 10px;
     }
@@ -696,23 +704,21 @@ footer a:active {
         max-width: 120rem;
     }
 
-    .container {
-        max-width: 110rem;
+    .goals-description {
+        font-size: 16px;
     }
-}
-
-.goals-description {
-    font-size: 16px;
 }
 
 /* Landscape tablets */
 @media (max-width: 1200px) {
 
+    /* General */
     .main-heading {
         font-size: 4.8rem;
         margin-bottom: 2.8rem;
     }
 
+    /* Contact Page */
     .contact-outer {
         display: grid;
     }
@@ -724,6 +730,8 @@ footer a:active {
 
 /* Tablets */
 @media (max-width: 944px) {
+
+    /* Navigation */
     .check-btn{
         display: block;
     }
@@ -737,6 +745,7 @@ footer a:active {
         text-align: center;
         transition: all .5s;
     }
+
     nav ul li{
         display: block;
         margin: 50px 0;
@@ -745,14 +754,17 @@ footer a:active {
     nav ul li a{
         font-size: 16px;
     }
+
     a:hover,a.active{
         background: none;
         color: #fff;
     }
+
     #hamburger:checked ~ ul{
         left: 0;
     }
 
+    /* Hero Section */
     .hero-outer{
         padding: 15px;
     }
@@ -778,12 +790,11 @@ footer a:active {
         justify-content: center;
     }
 
-
     .hero-image {
         width: 60%;
     }
 
-
+    /* Restaurant Goals */
     .goals {
         display: inline-block;
     }
@@ -792,6 +803,7 @@ footer a:active {
         margin: 15px auto;
     }
 
+    /* About page */
     .about-outer {
         margin: 0 10px;
     }
@@ -816,10 +828,12 @@ footer a:active {
         width: 60%;
     }
 
+    /* Menu page */
     .menu-outer {
         margin: 0 10px;
     }
 
+    /* Gallery Section*/
     .main-gallery div img {
         filter: grayscale(20%);
     }
@@ -832,6 +846,7 @@ footer a:active {
         transform: none;
     }
 
+    /* 404 Page */
     .page-404-container {
         grid-template-columns: 1fr;
         gap: 0;
@@ -852,6 +867,7 @@ footer a:active {
         width: 60%;
     }
 
+    /* Thank You Page */
     .thankyou-container {
         grid-template-columns: 1fr;
         gap: 0;
@@ -871,18 +887,18 @@ footer a:active {
     .image-thankyou {
         width: 60%;
     }
-
-
 }
 
 /* Small tablets */
 @media (max-width: 704px) {
 
+    /* General */
     .main-heading {
         font-size: 3.8rem;
         margin-bottom: 2rem;
     }
 
+    /* Hero Section */
     .hero-outer {
         padding: 4.8rem 0;
     }
@@ -892,6 +908,7 @@ footer a:active {
         flex-direction: column;
     }
 
+    /* Menu Page */
     .menu-heading {
         font-size: 4rem;
     }
@@ -905,7 +922,6 @@ footer a:active {
         grid-template-columns: 1fr;
     }
 
-
     .menu-title {
         text-align: center;
     }
@@ -914,10 +930,12 @@ footer a:active {
         display: none;
     }
 
+    /* 404 page */
     .page-404-outer {
         margin: 0 1rem;
     }
 
+    /* Thank You page */
     .thankyou-outer {
         margin: 0 1rem;
     }
@@ -926,6 +944,7 @@ footer a:active {
 /* Phones */
 @media (max-width: 544px) {
 
+    /* Hero Section */
     .hero-content {
         margin: 0 auto;
         padding: 3rem 1rem;
@@ -945,6 +964,7 @@ footer a:active {
         margin: 2.5rem auto;
     }
 
+    /* Footer */
     .footer-contact {
         margin: 20px;
         text-align: center
@@ -958,10 +978,12 @@ footer a:active {
         padding: 0 20px;
     }
 
+    /* Menu Page */
     .menu-heading {
         font-size: 3rem;
     }
 
+    /* Contact Page */
     .contact-outer {
         margin: 0 1rem;
     }
@@ -983,14 +1005,13 @@ footer a:active {
     .map-box iframe {
         max-width: 250px;
     }
-
 }
 
 /* Small phones */
 @media (max-width: 400px) {
 
+    /* Menu Page */
     .menu-heading {
         font-size: 2.5rem;
     }
-
 }
