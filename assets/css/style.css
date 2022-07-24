@@ -715,6 +715,21 @@ footer a:hover {
         justify-content: center;
     }
 
+
+
+    .hero-image {
+        width: 60%;
+    }
+
+
+    .goals {
+        display: inline-block;
+    }
+
+    .goals div {
+        margin: 15px auto;
+    }
+
     .about-outer {
         margin: 0 10px;
     }
@@ -732,23 +747,6 @@ footer a:hover {
         display: flex;
         flex-direction: column;
         justify-content: center;
-    }
-
-    .hero-image {
-        width: 60%;
-    }
-
-
-    .goals {
-        display: inline-block;
-    }
-
-    .goals div {
-        margin: 15px auto;
-    }
-
-    .about-container {
-        grid-template-columns: 1fr;
     }
 
     .about-logo {
