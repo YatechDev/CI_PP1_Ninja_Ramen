@@ -801,6 +801,10 @@ footer a:hover {
         flex-direction: column;
     }
 
+    .menu-heading {
+        font-size: 4rem;
+    }
+
     .menu-card {
         display: flex;
         flex-direction: row;
