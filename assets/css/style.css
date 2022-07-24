@@ -835,8 +835,21 @@ footer a:hover {
     .hero-content {
         margin: 0 auto;
         padding: 3rem 3.2rem;
+        gap: 0;
     }
 
+    .hero-description {
+        font-size: 1.8rem;
+        margin: 0 0 2rem;
+    }
+
+    .btn:link {
+        margin: 1rem auto;
+    }
+
+    .hero-gallery {
+        margin: 2.5rem auto;
+    }
 
     .footer-contact {
         margin: 20px;
