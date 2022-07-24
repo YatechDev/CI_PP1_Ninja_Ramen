@@ -357,6 +357,12 @@ footer a:hover {
     margin: 0 auto;
 }
 
+.menu-heading {
+    font-size: 5.2rem;
+    text-align: center;
+    padding-bottom: 2.8rem;
+}
+
 /***************/
 /* GALLERY */
 /***************/
