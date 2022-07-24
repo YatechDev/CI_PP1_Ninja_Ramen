@@ -815,6 +815,10 @@ footer a:hover {
         text-align: center;
     }
 
+    .menu-img-box {
+        display: none;
+    }
+
 }
 
 /* Phones */
