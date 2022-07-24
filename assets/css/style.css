@@ -844,10 +844,6 @@ footer a:hover {
     .copyrights {
         padding: 0 20px;
     }
-}
-
-/* Small phones */
-@media (max-width: 400px) {
 
     .contact-logo {
         height: 25px;
@@ -861,5 +857,11 @@ footer a:hover {
     .map-box iframe {
         max-width: 250px;
     }
+
+}
+
+/* Small phones */
+@media (max-width: 400px) {
+
 
 }
