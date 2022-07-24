@@ -625,6 +625,21 @@ footer a:hover {
 /* Smaller desktops & laptops */
 @media (max-width: 1344px) {
 
+    .hero-outer {
+        margin: 0 10px;
+    }
+
+    .hero-content {
+        max-width: 120rem;
+    }
+
+    .container {
+        max-width: 110rem;
+    }
+}
+
+.goals-description {
+    font-size: 16px;
 }
 
 /* Landscape tablets */
