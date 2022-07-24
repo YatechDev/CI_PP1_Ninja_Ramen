@@ -705,6 +705,15 @@ footer a:hover {
         flex-direction: column;
     }
 
+    .hero-img-box {
+        display: flex;
+        justify-content: center;
+    }
+
+    .hero-image {
+        width: 60%
+    }
+
 
     .goals {
         display: inline-block;
