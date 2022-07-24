@@ -877,6 +877,15 @@ footer a:hover {
         font-size: 3rem;
     }
 
+    .contact-outer {
+        margin: 0 1rem;
+    }
+
+    .contact-left-box,
+    .contact-right-box {
+        padding: 1rem 0;
+    }
+
     .contact-logo {
         height: 25px;
     }
