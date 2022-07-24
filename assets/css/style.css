@@ -730,6 +730,11 @@ footer a:hover {
  .menu-content {
      grid-template-columns: 1fr;
  }
+    .hero-content {
+        display: flex;
+        flex-direction: column;
+    }
+
 }
 
 /* Phones */
