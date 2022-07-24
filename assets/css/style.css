@@ -752,6 +752,18 @@ footer a:hover {
         width: 60%;
     }
 
+    .main-gallery div img {
+        filter: grayscale(20%);
+    }
+
+    .main-gallery div img:hover {
+        filter: grayscale(0);
+    }
+
+    .main-gallery div:hover {
+        transform: none;
+    }
+
     .page-404-container {
         grid-template-columns: 1fr;
         gap: 0;
