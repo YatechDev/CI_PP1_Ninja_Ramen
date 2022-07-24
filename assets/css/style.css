@@ -625,7 +625,8 @@ footer a:active {
     line-height: 1.2;
 }
 
-.page-404-right-box {
+.page-404-right-box,
+.page-404-left-box {
     display: grid;
     justify-content: center;
     align-items: center;
