@@ -700,6 +700,11 @@ footer a:hover {
         text-align: center;
     }
 
+    .hero-gallery {
+        display: flex;
+        flex-direction: column;
+    }
+
 
     .goals {
         display: inline-block;
