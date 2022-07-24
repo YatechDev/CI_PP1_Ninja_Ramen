@@ -1014,4 +1014,9 @@ MEDIA QUERIES
     .menu-heading {
         font-size: 2.5rem;
     }
+
+    /* Contact Page */
+    .map-box iframe {
+        max-width: 200px;
+    }
 }
