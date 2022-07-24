@@ -832,6 +832,12 @@ footer a:hover {
 /* Phones */
 @media (max-width: 544px) {
 
+    .hero-content {
+        margin: 0 auto;
+        padding: 3rem 3.2rem;
+    }
+
+
     .footer-contact {
         margin: 20px;
         text-align: center
