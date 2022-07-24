@@ -19,18 +19,21 @@
     <!--My Stylesheet -->
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
-<body>
 
+<body>
+    <!-- Header & header logo -->
     <header class="header">
         <a href="index.html">
             <img class="header-logo" src="assets/images/logo-header.png" alt="Company logo, ninja eating ramen">
         </a>
+        <!-- Navigation -->
         <nav class="navbar">
+            <!-- Hamburger Menu -->
             <input type="checkbox" id="hamburger">
             <label for="hamburger" class="check-btn">
                 <i class="fas fa-bars"></i>
             </label>
-
+            <!-- Links -->
             <ul class="navbar-links">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="about.html">About</a></li>
@@ -38,71 +41,75 @@
                 <li><a href="gallery.html">Gallery</a></li>
                 <li><a class="active" href="contact.html">Contact</a></li>
             </ul>
-        </nav>
-    </header>
+        </nav> <!-- End of Navigation -->
+    </header> <!-- End of Header-->
 
+    <!-- Main content -->
     <main>
         <!-- Contact Section -->
         <section class="section-contact">
-            <!-- Outer for easy manage margins/paddings -->
+            <!-- Contact Outer -->
             <div class="contact-outer">
                 <!-- Contact Container -->
                 <div class="contact-container container">
                     <!-- Section Heading -->
                     <h2 class="main-heading white-text text-center contact-heading"><i class="fa-solid fa-envelope"></i>
                         Contact Us !</h2>
-                <div class="contact-boxes grid grid-2-cols">
-                    <!-- Contact left box (form) -->
-                    <div class="contact-left-box">
-                        <!-- Form -->
-                        <form action="thankyou.html" method="GET">
+                    <div class="contact-boxes grid grid-2-cols">
+                        <!-- Contact left box (form) -->
+                        <div class="contact-left-box">
+                            <!-- Form -->
+                            <form action="thankyou.html" method="GET">
 
-                            <div class="form-row">
+                                <div class="form-row">
+                                    <div class="input-group">
+                                        <input class="contact-input" type="text" id="name" required>
+                                        <label for="name" class="contact-label"><i class="fas fa-user"></i> Your
+                                            Name</label>
+                                    </div>
+                                    <div class="input-group">
+                                        <input class="contact-input" type="email" id="email" required>
+                                        <label for="email" class="contact-label"><i class="fas fa-envelope"></i> Your
+                                            Email</label>
+                                    </div>
+                                </div>
+
                                 <div class="input-group">
-                                    <input class="contact-input" type="text" id="name" required>
-                                    <label for="name" class="contact-label"><i class="fas fa-user"></i> Your
-                                        Name</label>
+                                    <input class="contact-input" type="text" id="subject" required>
+                                    <label for="subject" class="contact-label"><i class="fa-solid fa-pen"></i>
+                                        Subject</label>
                                 </div>
                                 <div class="input-group">
-                                    <input class="contact-input" type="email" id="email" required>
-                                    <label for="email" class="contact-label"><i class="fas fa-envelope"></i> Your
-                                        Email</label>
+                                    <textarea class="contact-textarea" id="message" rows="8" required></textarea>
+                                    <label for="message" class="contact-label"><i class="fas fa-comments"></i> Your
+                                        Message</label>
                                 </div>
-                            </div>
+                                <button class="contact-btn" type="submit">SEND <i class="fas fa-paper-plane"></i>
+                                </button>
+                            </form> <!-- End of Form -->
+                        </div> <!-- End of Contact Left Box -->
 
-                            <div class="input-group">
-                                <input class="contact-input" type="text" id="subject" required>
-                                <label for="subject" class="contact-label"><i class="fa-solid fa-pen"></i>
-                                    Subject</label>
+                        <!-- Contact Right Box -->
+                        <div class="contact-right-box">
+                            <!-- Logo -->
+                            <div class="contact-logo">
+                                <img src="assets/images/logo-header.png" alt="Company logo, ninja eating ramen">
                             </div>
-                            <div class="input-group">
-                                <textarea class="contact-textarea" id="message" rows="8" required></textarea>
-                                <label for="message" class="contact-label"><i class="fas fa-comments"></i> Your
-                                    Message</label>
+                            <!-- Google Map -->
+                            <div class="map-box">
+                                <iframe title="Google-Map"
+                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d844.4017513671907!2d-0.538959147487528!3d53.22988173977878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48785b3adb8dc49d%3A0xdb35870efee0dbac!2sSilver%20St%2C%20Lincoln!5e0!3m2!1spl!2suk!4v1658190358615!5m2!1spl!2suk"
+                                        width="600" height="450" name="google-map" style="border:0;" allowfullscreen=""
+                                        loading="lazy"
+                                        referrerpolicy="no-referrer-when-downgrade">
+                                </iframe>
                             </div>
-                            <button class="contact-btn" type="submit">SEND <i class="fas fa-paper-plane"></i></button>
-                        </form> <!-- End of Form -->
-                    </div> <!-- End of Contact Left Box -->
-
-                    <!-- Contact Right Box -->
-                    <div class="contact-right-box">
-                        <!-- Logo -->
-                        <div class="contact-logo">
-                            <img src="assets/images/logo-header.png" alt="Company logo, ninja eating ramen">
-                        </div>
-                        <!-- Google Map -->
-                        <div class="map-box">
-                            <iframe title="Google-Map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d844.4017513671907!2d-0.538959147487528!3d53.22988173977878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48785b3adb8dc49d%3A0xdb35870efee0dbac!2sSilver%20St%2C%20Lincoln!5e0!3m2!1spl!2suk!4v1658190358615!5m2!1spl!2suk"
-                                    width="600" height="450" name="google-map" style="border:0;" allowfullscreen="" loading="lazy"
-                                    referrerpolicy="no-referrer-when-downgrade">
-                            </iframe>
-                        </div>
-                    </div> <!-- End of Contact Right Box -->
-                </div>
+                        </div> <!-- End of Contact Right Box -->
+                    </div> <!-- End of Contact Boxes -->
                 </div> <!-- End of Contact Container -->
             </div> <!-- End of Contact Outer -->
         </section> <!-- End of Contact Section-->
-    </main>
+    </main> <!-- End of Main content -->
 
     <!-- Footer -->
     <footer>
@@ -135,7 +142,7 @@
                     Institute</a> .
             </p>
         </div>
-    </footer>
+    </footer> <!-- End of Footer -->
 
 </body>
 </html>
