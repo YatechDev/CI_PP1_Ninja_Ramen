@@ -346,6 +346,17 @@ footer a:hover {
     padding: 4.8rem 0;
 }
 
+.menu-container {
+    max-width: 150rem;
+    background: rgba(255,255,255,0.5);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.05);
+    backdrop-filter: blur(25px);
+    border-radius: 2rem;
+    border: 1px solid red;
+    padding: 4.8rem;
+    margin: 0 auto;
+}
+
 /***************/
 /* GALLERY */
 /***************/
