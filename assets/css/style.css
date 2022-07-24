@@ -809,6 +809,10 @@ footer a:hover {
         margin-bottom: 2rem;
     }
 
+    .hero-outer {
+        padding: 4.8rem 0;
+    }
+
     .hero-content {
         display: flex;
         flex-direction: column;
