@@ -716,7 +716,6 @@ footer a:hover {
     }
 
 
-
     .hero-image {
         width: 60%;
     }
@@ -736,6 +735,7 @@ footer a:hover {
 
     .about-container {
         grid-template-columns: 1fr;
+        gap: 0;
     }
 
     .about-left-box,
@@ -745,13 +745,33 @@ footer a:hover {
 
     .about-left-box {
         display: flex;
-        flex-direction: column;
         justify-content: center;
     }
 
     .about-logo {
         width: 60%;
     }
+
+    .page-404-container {
+        grid-template-columns: 1fr;
+        gap: 0;
+    }
+
+    .page-404-left-box,
+    .page-404-right-box {
+        padding: 10px 10px;
+    }
+
+    .page-404-right-box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .image-404 {
+        width: 60%;
+    }
+
 
 }
 
