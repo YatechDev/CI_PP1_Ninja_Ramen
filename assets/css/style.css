@@ -783,9 +783,17 @@ footer a:hover {
         margin-bottom: 2rem;
     }
 
- .menu-content {
-     grid-template-columns: 1fr;
- }
+
+    .menu-card {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .menu-content {
+        grid-template-columns: 1fr;
+    }
+
+
     .hero-content {
         display: flex;
         flex-direction: column;
