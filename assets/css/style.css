@@ -852,6 +852,26 @@ footer a:active {
         width: 60%;
     }
 
+    .thankyou-container {
+        grid-template-columns: 1fr;
+        gap: 0;
+    }
+
+    .thankyou-left-box,
+    .thankyou-right-box {
+        padding: 10px 10px;
+    }
+
+    .thankyou-left-box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .image-thankyou {
+        width: 60%;
+    }
+
 
 }
 
@@ -898,6 +918,9 @@ footer a:active {
         margin: 0 1rem;
     }
 
+    .thankyou-outer {
+        margin: 0 1rem;
+    }
 }
 
 /* Phones */
