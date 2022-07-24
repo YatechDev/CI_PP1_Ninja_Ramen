@@ -689,6 +689,12 @@ footer a:hover {
         padding: 15px;
     }
 
+    .hero-content {
+        grid-template-columns: 1fr;
+        padding: 0 8rem;
+        gap: 6.4rem;
+    }
+
     .goals {
         display: inline-block;
     }
