@@ -734,6 +734,22 @@ MEDIA QUERIES
     .contact-boxes {
         display: inline-block;
     }
+
+    /* 404 Page */
+    .page-404-container {
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+        margin: 0 1rem;
+    }
+
+    /* Thank You Page */
+    .thankyou-container {
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+        margin: 0 1rem;
+    }
 }
 
 /* Tablets */
