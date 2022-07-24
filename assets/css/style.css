@@ -335,6 +335,16 @@ footer a:hover {
 /* MENU */
 /***************/
 
+.section-menu {
+    background-image: url("../images/backgrounds/bg-menu.webp");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.menu-outer {
+    padding: 4.8rem 0;
+}
 
 /***************/
 /* GALLERY */
