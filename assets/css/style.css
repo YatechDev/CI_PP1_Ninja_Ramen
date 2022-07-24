@@ -153,6 +153,10 @@ footer a:hover {
     color: red;
 }
 
+footer a:active {
+    color: #fff;
+}
+
 .footer-contact ul li {
     margin: 0.5rem 1.5rem 1rem 1.5rem;
     font-size: 1.6rem;
