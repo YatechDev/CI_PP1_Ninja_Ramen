@@ -807,6 +807,10 @@ footer a:hover {
     }
 
 
+    .menu-title {
+        text-align: center;
+    }
+
     .hero-content {
         display: flex;
         flex-direction: column;
