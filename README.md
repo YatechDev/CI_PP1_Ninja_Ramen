@@ -451,6 +451,20 @@ The website has been tested on the following browsers:
 
 ### Testing user stories
 
+1. As a first time user, I want to know what kind of cuisine is in restaurant.
+
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+| Hero Section & Restaurant Goals | First section displayed on the page | User can see straight away and read what type of cuisine he can expect in restaurant | PASS              |
+| Menu                            | Check the menu                      | Find what type of food restaurant has to offer                                       | PASS              |
+| Gallery                         | Click on the gallery                | User is able to see some examples of the meals                                       | PASS              |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-stories/story-1-1.png">
+<img src="docs/user-stories/story-1-2.png">
+<img src="docs/user-stories/story-1-3.png">
+</details>
+
 ## Bugs
 1.
 
