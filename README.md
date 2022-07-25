@@ -541,7 +541,14 @@ Forking the GitHub repository:
 1. [CI TEMPLATE](https://github.com/Code-Institute-Org/gitpod-full-template) - This repository was created using the template proposed by Code Institute
 2. [Canva](https://www.canva.com/) - All photos and graphics are from Canva and are used under a license I have. I made most of the graphic elements
    myself using this program.
-
-
+3. [JetBrains](https://www.jetbrains.com/webstorm/) - I use their software - WebStorm - as my main IDE.
+4. [Animated Label - Tutorial](https://www.youtube.com/watch?v=524ycUqs3f0) - This tutorial taught me how to make
+   animated labels for form input. I partially modified the code, although the idea is taken from this tutorial.
+5. [Pretty Sticky](https://codepen.io/BurmesePotato/pen/qBbqpNB) - This code inspired me to create the menu section. It
+   has been modified in large part by me, although the idea and the skeleton come from here.
+6. [Code Institute](https://codeinstitute.net/) - As the main source of my knowledge.
+7. [ZTM](https://zerotomastery.io/), [CodeCademy](https://www.codecademy.com/), [EduWeb](https://eduweb.pl/)
+   , [Strefa Kursow](https://strefakursow.pl/) - As additional places where I often do additional courses and enrich my
+   knowledge.
 
 ## Acknowledgements
