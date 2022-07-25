@@ -443,10 +443,6 @@ GALLERY PAGE
     padding: 4.8rem 0;
 }
 
-.gallery-heading {
-    padding-top: 4.8rem;
-}
-
 .main-gallery {
     columns: 5 20rem;
     column-gap: 1.5rem;
