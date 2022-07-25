@@ -280,7 +280,56 @@ Next to the form, the user can find a map that shows exactly where the restauran
 
 ### HTML Validation
 
+I used "W3C Markup Validation Service" to validate the code.  
+I validated each of the subpages and no error was found on any of them.
+
+<details><summary>Home</summary>
+<img src="docs/validation/validation-home.png" alt="Validation of Home-Page">
+</details>
+
+<details><summary>About</summary>
+<img src="docs/validation/validation-about.png" alt="Validation of About-Page">
+</details>
+
+<details><summary>Menu</summary>
+<img src="docs/validation/validation-menu.png" alt="Validation of Menu-Page">
+</details>
+
+<details><summary>Gallery</summary>
+<img src="docs/validation/validation-gallery.png" alt="Validation of Gallery-Page">
+</details>
+
+<details><summary>Contact</summary>
+<img src="docs/validation/validation-contact.png" alt="Validation of Contact-Page">
+</details>
+
+<details><summary>404</summary>
+<img src="docs/validation/validation-404.png" alt="Validation of 404-Page">
+</details>
+
+<details><summary>ThankYou</summary>
+<img src="docs/validation/validation-thankyou.png" alt="Validation of ThankYou-Page">
+</details>
+
 ### CSS Validation
+
+I used "W3C CSS Validation Service" to validate the CSS code.
+
+I have performed two validations:
+
+1. The Whole page showed errors and alerts related to imported CSS code from Font Awesome but showed no errors with my
+   CSS.
+
+<details><summary>Whole Page</summary>
+<img src="docs/validation/validation_whole_page_css.png" alt="Validation of Whole Page CSS">
+</details>
+
+2. During the second validation I loaded my CSS file and the program did not find any errors related to my code, it only
+   suggested that the imported CSS sheet (google font) was not checked.
+
+<details><summary>My CSS file</summary>
+<img src="docs/validation/validation-my_css.png" alt="Validation of My CSS file">
+</details>
 
 ## Testing
 
