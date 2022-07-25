@@ -189,13 +189,46 @@ curiosity and interest of the user to continue browsing the site and take advant
 - User Stories covered: 1, 8, 14, 15, 17
 
 ### Footer
-![NAVBAR](docs/features/feat-footer.png)
+![FOOTER](docs/features/feat-footer.png)
 Footer, like the navigation bar, is present on all subpages and is responsive to mobile devices. It contains links to
 restaurant's profile on the most popular social media, opening hours, contact details and copyrights.  
 Links to social media are shown as icons, making it easy to find a platform that interests the user.
 The links open in a new browser tab, so the user stays on the restaurant's website.
 
 - User Stories covered: 5, 6, 7, 9, 10, 11, 13, 18, 20
+
+### About Us
+![ABOUTUS](docs/features/feat-about_us.png)
+The "about us" section gives the user a greater description of the restaurant, and a short history and encourages the
+organization of meetings and events in the restaurant.
+
+- User Stories covered: 1, 4, 5
+
+### Menu
+![MENU](docs/features/feat-menu.png)
+The section contains the restaurant's menu and is divided into categories. Each of the categories contains a drawing of
+the dish, which is hidden on mobile devices to ensure greater comfort in viewing the offer.  
+Each dish has a short description and price.
+
+- User Stories covered: 1, 3, 8, 15
+
+### Gallery & Video
+![GALLERY](docs/features/feat-gallery.png)
+![VIDEO](docs/features/feat-video.png)
+A section where the user can see photos of both meals and the interior of the restaurant.
+The photos are in grayscale, but when you hover over one of them, it zooms in and shows in full colour. This gives an
+interesting visual effect to the user.  
+Below is a short promotional video to encourage the user to take advantage of the restaurant's offer.
+
+
+- User Stories covered: 1, 15, 21
+
+### Contact Section
+![CONTACT SECTION](docs/features/feat-contact_section.png)
+Section where you can find a contact form that allows you to freely contact the restaurant online.  
+Next to the form, the user can find a map that shows exactly where the restaurant is located.
+
+- User Stories covered: 12, 19
 
 ## Validation
 
