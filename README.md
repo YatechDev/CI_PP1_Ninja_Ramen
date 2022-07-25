@@ -434,10 +434,11 @@ Below is a list of screenshots:
 ### Performing tests on various devices
 The website was tested on devices such as:
 
-- MSI Katana GF76 17.3in
+- MSI Katana GF76 17.3"
 - ASUS TUF Dash F15 15.6"
 - iPhone 11 PRO
 - iPhone XR
+- Xiaomi Redmi Note 9
 - Samsung Galaxy Tab A (landscape & portrait mode)
 
 ### Browser compatability
