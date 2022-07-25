@@ -538,5 +538,10 @@ Forking the GitHub repository:
 3. Choose where you want to save your forked repository.
 
 ## Credits
+1. [CI TEMPLATE](https://github.com/Code-Institute-Org/gitpod-full-template) - This repository was created using the template proposed by Code Institute
+2. [Canva](https://www.canva.com/) - All photos and graphics are from Canva and are used under a license I have. I made most of the graphic elements
+   myself using this program.
+
+
 
 ## Acknowledgements
