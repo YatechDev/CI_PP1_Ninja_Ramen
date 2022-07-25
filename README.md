@@ -1,10 +1,11 @@
-# Ninja Ramen
-First project portfolio for Code Institute. A website for the imaginery Japanese restaurant based in Lincoln, UK.  
+# Ninja Ramen 
 (Developer: Mateusz Smalarz aka YatechDev)
 
 ![Mockup image](docs/responsiveness.png)
 
 [Ninja Ramen - Live webpage](https://yatechdev.github.io/CI_PP1_Ninja_Ramen/) (Right click to open in new tab)
+
+First project portfolio for Code Institute. A website for the imaginery Japanese restaurant based in Lincoln, UK.
 
 ## Table of Content
 
@@ -210,7 +211,6 @@ This is the prototype of the project that may change during its development.
 - [Grammarly](https://www.grammarly.com/) (typography)
 
 ## Features
-The website consists of 5 main subpages and an additional "404" and "thank you" pages.
 
 ### Navigation Bar
 ![NAVBAR](docs/features/feat-navbar.png)
@@ -276,6 +276,25 @@ Section where you can find a contact form that allows you to freely contact the 
 Next to the form, the user can find a map that shows exactly where the restaurant is located.
 
 - User Stories covered: 12, 19
+
+### 404 Page
+![CONTACT SECTION](docs/features/feat-404_page.png)
+The 404 page is the page for displaying the HTTP 404 error message. It informs the user that there is no resource at the
+URL entered.  
+This page has all the navigation, footer and an easily visible button thanks to which the user can quickly return to the
+home page.
+
+### Thank You - Page
+![CONTACT SECTION](docs/features/feat-thankyou_page.png)
+This page displays after submitting the form and informs the user that his inquiry or message has been successfully
+sent.  
+This page has all the navigation, footer and an easily visible button thanks to which the user can quickly return to the
+home page.
+
+### Favicon & Name on tab
+![CONTACT SECTION](docs/features/feat-page_card.png)  
+Each of the subpages has a favicon, the name of the restaurant and the subpage on which the user is currently located.
+Thanks to these additions, the user can easily locate the opened tab among others in his browser.
 
 ## Validation
 
