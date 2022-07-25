@@ -1,4 +1,5 @@
 # Ninja Ramen
+First project portfolio for Code Institute. A website for the imaginery Japanese restaurant based in Lincoln, UK.  
 (Developer: Mateusz Smalarz aka YatechDev)
 
 ![Mockup image](docs/responsiveness.png)
