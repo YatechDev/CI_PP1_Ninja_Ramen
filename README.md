@@ -371,6 +371,66 @@ No other errors were detected on any of the subpages.
 
 ### Performance
 
+To test the performance on the website, I used Google Lighthouse in Google Chrome Developer Tools.
+The test was carried out on all subpages, both for computers and mobile devices.  
+Below is a list of screenshots:
+
+<details><summary>Home</summary>
+<img src="docs/performance/home-desktop.png" alt="Performance of Home-Page">
+</details>
+
+<details><summary>Home - mobiles</summary>
+<img src="docs/performance/home-mobile.png" alt="Performance of Home-Page">
+</details>
+
+<details><summary>About</summary>
+<img src="docs/performance/about-desktop.png" alt="Performance of About-Page">
+</details>
+
+<details><summary>About - mobiles</summary>
+<img src="docs/performance/about-mobile.png" alt="Performance of About-Page">
+</details>
+
+<details><summary>Menu</summary>
+<img src="docs/performance/menu-desktop.png" alt="Performance of Menu-Page">
+</details>
+
+<details><summary>Menu - mobiles</summary>
+<img src="docs/performance/menu-mobile.png" alt="Performance of Menu-Page">
+</details>
+
+<details><summary>Gallery</summary>
+<img src="docs/performance/gallery-desktop.png" alt="Performance of Gallery-Page">
+</details>
+
+<details><summary>Gallery - mobiles</summary>
+<img src="docs/performance/gallery-mobile.png" alt="Performance of Gallery-Page">
+</details>
+
+<details><summary>Contact</summary>
+<img src="docs/performance/contact-desktop.png" alt="Performance of Contact-Page">
+</details>
+
+<details><summary>Contact - mobiles</summary>
+<img src="docs/performance/contact-mobile.png" alt="Performance of Contact-Page">
+</details>
+
+<details><summary>404</summary>
+<img src="docs/performance/404-desktop.png" alt="Performance of 404-Page">
+</details>
+
+<details><summary>404 - mobiles</summary>
+<img src="docs/performance/404-mobile.png" alt="Performance of 404-Page">
+</details>
+
+<details><summary>ThankYou</summary>
+<img src="docs/performance/thankyou-desktop.png" alt="Performance of ThankYou-Page">
+</details>
+
+<details><summary>ThankYou - mobiles</summary>
+<img src="docs/performance/thankyou-mobile.png" alt="Performance of ThankYou-Page">
+</details>
+
 ### Performing tests on various devices
 
 ### Browser compatability
