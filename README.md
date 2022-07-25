@@ -521,6 +521,20 @@ Tested on iPhone 11 PRO & iPhone XR
 </details>
 
 ## Deployment
+The website was deployed on GitHub by using following steps:
+1. Login into GitHub and locate the repository - [CI_PP1_Ninja_Ramen](https://github.com/YatechDev/CI_PP1_Ninja_Ramen)
+2. At the top of repository locate the "settings" button and click on it.
+3. Now on the left sidebar find locate the "pages" button and click on it.
+4. Under source heading click on the branch dropdown menu and select: master.
+5. Click save.
+6. You will receive link to your deployed repository like on the screen below.
+
+![GitHub Pages](docs/github-pages.png)
+
+Forking the GitHub repository:
+1. Login into GitHub and locate the repository - [CI_PP1_Ninja_Ramen](https://github.com/YatechDev/CI_PP1_Ninja_Ramen)
+2. At the top of repository in right corner locate the "fork" button and click on it.
+3. Choose where you want to save your forked repository.
 
 ## Credits
 
