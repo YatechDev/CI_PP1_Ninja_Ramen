@@ -1,9 +1,9 @@
 # Ninja Ramen
 (Developer: Mateusz Smalarz aka YatechDev)
 
-![Mockup image]()
+![Mockup image](docs/responsiveness.png)
 
-[Live webpage]()
+[Ninja Ramen - Live webpage](https://yatechdev.github.io/CI_PP1_Ninja_Ramen/) (Right click to open in new tab)
 
 ## Table of Content
 
