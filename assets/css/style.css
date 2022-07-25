@@ -484,8 +484,15 @@ GALLERY PAGE
 }
 
 .video-box {
+    max-width: 130rem;
     padding: 0.5rem;
     border: solid 2px #829093;
+    margin: 0 2rem;
+}
+
+.video-box video {
+    width: 100%;
+    height: auto;
 }
 
 /* ==========
