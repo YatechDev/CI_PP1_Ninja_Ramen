@@ -572,3 +572,9 @@ Forking the GitHub repository:
    knowledge.
 
 ## Acknowledgements
+Huge thanks to:
+- Mo Shami - For being a great mentor I'm lucky enough to have. For his amazing guidance, support, tips and feedback.
+- To My amazing wife Karolina, who supported me during the whole process of learning and creating the project, allowed
+  me to focus on my work and keep me motivated to act all the time.
+- To my family and friends - for being a great support and for their motivation.
+- The entire Code Institute community on slack for great understanding and motivation every day!
