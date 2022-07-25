@@ -718,6 +718,36 @@ MEDIA QUERIES
         margin-bottom: 2.8rem;
     }
 
+    /* Hero Section */
+    .hero-outer{
+        padding: 15px;
+    }
+
+    .hero-content {
+        grid-template-columns: 1fr;
+        padding: 4rem 8rem;
+        gap: 6.4rem;
+    }
+
+    .hero-left-box,
+    .hero-right-box {
+        text-align: center;
+    }
+
+    .hero-gallery {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .hero-img-box {
+        display: flex;
+        justify-content: center;
+    }
+
+    .hero-image {
+        width: 60%;
+    }
+
     /* About Page */
     .about-container {
         display: flex;
@@ -786,36 +816,6 @@ MEDIA QUERIES
 
     #hamburger:checked ~ ul{
         left: 0;
-    }
-
-    /* Hero Section */
-    .hero-outer{
-        padding: 15px;
-    }
-
-    .hero-content {
-        grid-template-columns: 1fr;
-        padding: 4rem 8rem;
-        gap: 6.4rem;
-    }
-
-    .hero-left-box,
-    .hero-right-box {
-        text-align: center;
-    }
-
-    .hero-gallery {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .hero-img-box {
-        display: flex;
-        justify-content: center;
-    }
-
-    .hero-image {
-        width: 60%;
     }
 
     /* Restaurant Goals */
