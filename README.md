@@ -432,6 +432,13 @@ Below is a list of screenshots:
 </details>
 
 ### Performing tests on various devices
+The website was tested on devices such as:
+
+- MSI Katana GF76 17.3in
+- ASUS TUF Dash F15 15.6"
+- iPhone 11 PRO
+- iPhone XR
+- Samsung Galaxy Tab A (landscape & portrait mode)
 
 ### Browser compatability
 
