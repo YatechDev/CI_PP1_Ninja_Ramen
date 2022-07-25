@@ -138,8 +138,27 @@ This is the prototype of the project that may change during its development.
 ## Technologies Used
 
 ### Languages
+- HTML 5
+- CSS 3
 
 ### Frameworks & Tools
+- Balsamiq (create wireframes for the project)
+- GitHub (create, hold and deploy repository)
+- Git (source code management)
+- WebStorm (IDE use to build the website)
+- Chrome DevTools (checking & testing the site)
+- WC3 Validator (validation of HTML & CSS code)
+- Webaim<span>.</span>org (accessibility & contrast checker)
+- Am I Responsive (website mockup)
+- Canva (images, logo & other graphic elements)
+- Paint (images edit)
+- Freeconvert<span>.</span>com (convert jpg to webp format)
+- TinyPNG (compress images)
+- Google Fonts (fonts)
+- Font Awesome (icons)
+- Favicon<span>.</span>io (favicon)
+- Evernote (notes, screenshots)
+- Grammarly (typography)
 
 ## Features
 
