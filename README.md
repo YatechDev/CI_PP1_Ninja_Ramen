@@ -188,6 +188,14 @@ curiosity and interest of the user to continue browsing the site and take advant
 
 - User Stories covered: 1, 8, 14, 15, 17
 
+### Footer
+![NAVBAR](docs/features/feat-footer.png)
+Footer, like the navigation bar, is present on all subpages and is responsive to mobile devices. It contains links to
+restaurant's profile on the most popular social media, opening hours, contact details and copyrights.  
+Links to social media are shown as icons, making it easy to find a platform that interests the user.
+The links open in a new browser tab, so the user stays on the restaurant's website.
+
+- User Stories covered: 5, 6, 7, 9, 10, 11, 13, 18, 20
 
 ## Validation
 
