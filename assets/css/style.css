@@ -979,6 +979,10 @@ MEDIA QUERIES
 /* Phones */
 @media (max-width: 544px) {
 
+    .header {
+        padding: 0 1rem;
+    }
+
     /* Hero Section */
     .hero-content {
         margin: 0 auto;
