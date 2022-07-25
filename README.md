@@ -17,10 +17,9 @@ First project portfolio for Code Institute. A website for the imaginery Japanese
     3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
-    2. [Colour](#colour)
-    3. [Fonts](#fonts)
-    4. [Structure](#structure)
-    5. [Wireframes](#wireframes)
+    2. [Fonts](#fonts)
+    3. [Structure](#structure)
+    4. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-&-tools)
@@ -111,12 +110,59 @@ First project portfolio for Code Institute. A website for the imaginery Japanese
 ## Design
 
 ### Design Choices
+As a design for the website, I did not use ready-made colour palettes, and instead, I decided to choose themed photos as
+the background for each of the subpages.  
+Each of the main subpages has its photo, with a layer blurring the background and emphasizing the content of the page.  
+In addition, the navbar and footer are in grey shades that match the style of the rest of the site.
 
-### Colour
+Below is a list of photos selected for each subpage.
+
+<details><summary>Home</summary>
+<img src="docs/backgrounds/bg-home.webp" alt="Background for Home-Page">
+</details>
+
+<details><summary>About</summary>
+<img src="docs/backgrounds/bg-about.webp" alt="Background for About-Page">
+</details>
+
+<details><summary>Menu</summary>
+<img src="docs/backgrounds/bg-menu.webp" alt="Background for Menu-Page">
+</details>
+
+<details><summary>Gallery</summary>
+<img src="docs/backgrounds/bg-gallery.webp" alt="Background for Gallery-Page">
+</details>
+
+<details><summary>Contact</summary>
+<img src="docs/backgrounds/bg-contact.webp" alt="Background for Contact-Page">
+</details>
+
+Pages "404" & "ThankYou" don't have specific photos, instead, they have a black background.
+
 
 ### Fonts
+'Roboto' regular 400 - taken from Google Fonts and apply via @import method to CSS file.  
+I chose this font because of its popularity, simplicity and ease of reading.
+
+![FONT](docs/font.png)
 
 ### Structure
+
+The website is constructed in one of the most frequently chosen and user-friendly ways. At the top of the page, there is
+a navigation bar with links to other subpages, below the main content of the page and a footer at the bottom.
+
+The website consists of five main pages and two additional pages.
+
+- Home
+- About
+- Menu
+- Gallery
+- Contact
+
+and
+
+- 404 page
+- Thank You page
 
 ### Wireframes
 This is the prototype of the project that may change during its development.
