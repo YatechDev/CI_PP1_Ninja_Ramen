@@ -83,29 +83,30 @@ First project portfolio for Code Institute. A website for the imaginery Japanese
 
 #### First-time users
 1. As a first time user, I want to know what kind of cuisine is in restaurant.
-2. As a first time user, I want to know the restaurant menu & prices.
-3. As a first time user, I want to know the story about the restaurant.
-4. As a first time user, I want to know where restaurant is located.
-5. As a first time user, I want to know restaurant opening time.
-6. As a first time user, I want to know the restaurant contact details.
+2. As a first time user, I want to easily navigate the page.
+3. As a first time user, I want to know the restaurant menu & prices.
+4. As a first time user, I want to know the story about the restaurant.
+5. As a first time user, I want to know where restaurant is located.
+6. As a first time user, I want to know restaurant opening time.
+7. As a first time user, I want to know the restaurant contact details.
 
 #### Returning visitor
-7. As a returning user, I want to quickly check the menu.
-8. As a returning user, I want to know about any changes in opening times.
-9. As a returning user, I want to check the contact details.
-10. As a returning user, I want to check if restaurant have any social media.
-11. As a returning user, I want to contact the restaurant online.
-12. As a returning user, I want to check the phone number for quick contact the restaurant.
-13. As a returning user, I want to check if restaurant create any new offers.
+8. As a returning user, I want to quickly check the menu.
+9. As a returning user, I want to know about any changes in opening times.
+10. As a returning user, I want to check the contact details.
+11. As a returning user, I want to check if restaurant have any social media.
+12. As a returning user, I want to contact the restaurant online.
+13. As a returning user, I want to check the phone number for quick contact the restaurant.
+14. As a returning user, I want to quickly find the restaurant menu.
 
 ### Site owner
-14. As a site owner, I want to show what kind of cuisine is in our restaurant.
-15. As a site owner, I want users to easily navigate the website.
-16. As a site owner, I want users to easily find the restaurant menu.
-17. As a site owner, I want to provide contact details for users.
-18. As a site owner, I want to provide online contact form.
-19. As a site owner, I want to provide links to restaurant's social media.
-20. As a site owner, I want to show pictures of the restaurant for users.
+15. As a site owner, I want to show what kind of cuisine is in our restaurant.
+16. As a site owner, I want users to easily navigate the website.
+17. As a site owner, I want users to easily find the restaurant menu.
+18. As a site owner, I want to provide contact details for users.
+19. As a site owner, I want to provide online contact form.
+20. As a site owner, I want to provide links to restaurant's social media.
+21. As a site owner, I want to show pictures of the restaurant for users.
 
 ## Design
 
@@ -162,6 +163,31 @@ This is the prototype of the project that may change during its development.
 - Grammarly (typography)
 
 ## Features
+The website consists of 5 main subpages and an additional "404" and "thank you" pages.
+
+### Navigation Bar
+![NAVBAR](docs/features/feat-navbar.png)
+The navigation bar is present on all subpages of the website, it is easily noticeable, intuitive and easy to use. The
+navigation bar highlights the selected page where the user is located.
+On the left side, there is a logo that, when clicked, leads to the main page. The navigation bar is responsive to mobile
+devices - it then turns into a common in-use "hamburger menu".
+
+- User Stories covered: 2, 14, 16, 17
+
+### Hero Section & Restaurant Goals
+![HERO SECTION](docs/features/feat-hero_section.png)
+![Restaurant Goals](docs/features/feat-restaurant_goals.png)
+The section on the main page is a first eye-catcher. It contains a short description of the restaurant,
+thanks to which the user learns what cuisine the restaurant has to offer.
+In the section, we can see two buttons that lead to the menu of the restaurant and additional information about the
+restaurant.
+The section also includes logos and photo thumbnails for attention and additional visual effect.  
+
+Immediately below the section, there are restaurant goals, which are quick to read and are designed to arouse the
+curiosity and interest of the user to continue browsing the site and take advantage of the restaurant's offer.
+
+- User Stories covered: 1, 8, 14, 15, 17
+
 
 ## Validation
 
