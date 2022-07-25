@@ -441,6 +441,13 @@ The website was tested on devices such as:
 - Samsung Galaxy Tab A (landscape & portrait mode)
 
 ### Browser compatability
+The website has been tested on the following browsers:
+- Google Chrome
+- Chromium
+- Mozilla Firefox
+- Opera
+- Microsoft Edge
+- Safari
 
 ### Testing user stories
 
