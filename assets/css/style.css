@@ -398,7 +398,7 @@ MENU PAGE
     padding: 1.5rem 0;
 }
 
-.menu-content .menu-title {
+.menu-content .menu-title h2 {
     font-size: 2.2rem;
     font-weight: 600
 }
