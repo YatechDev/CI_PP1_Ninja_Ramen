@@ -335,6 +335,40 @@ I have performed two validations:
 
 ### Accessibility
 
+I used "The WAVE WebAIM web accessibility evaluation tool" to test the code for accessibility and the same error
+appeared on each of the subpages.
+The label for input has an icon in it for a "hamburger menu" purpose, and has no other content. The tool treats this as an
+error.  
+No other errors were detected on any of the subpages.
+
+<details><summary>Home</summary>
+<img src="docs/accessibility/access-home.png" alt="Accesibility of Home-Page">
+</details>
+
+<details><summary>About</summary>
+<img src="docs/accessibility/access-about.png" alt="Accesibility of About-Page">
+</details>
+
+<details><summary>Menu</summary>
+<img src="docs/accessibility/access-menu.png" alt="Accesibility of Menu-Page">
+</details>
+
+<details><summary>Gallery</summary>
+<img src="docs/accessibility/access-gallery.png" alt="Accesibility of Gallery-Page">
+</details>
+
+<details><summary>Contact</summary>
+<img src="docs/accessibility/access-contact.png" alt="Accesibility of Contact-Page">
+</details>
+
+<details><summary>404</summary>
+<img src="docs/accessibility/access-404.png" alt="Accesibility of 404-Page">
+</details>
+
+<details><summary>ThankYou</summary>
+<img src="docs/accessibility/access-thankyou.png" alt="Accesibility of ThankYou-Page">
+</details>
+
 ### Performance
 
 ### Performing tests on various devices
