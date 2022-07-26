@@ -492,6 +492,13 @@ The website has been tested on the following browsers:
 | Navigation Bar | Click on logo or links | Navbar is <strong>easy to see and use.</strong> While scrolling, the page is always at the top. The logo on the left leads to the home page. | PASS              |
 | Buttons        | Click on the button    | User can find buttons in hero section, 404 and thankyou page for improved site navigation                                                    | PASS              |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-stories/story-2-1.png" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-2-2.png" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-2-3.png" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-2-4.png" alt="Screenshot of testing user-stories">
+</details>
+
 3. As a first time user, I want to know the restaurant menu & prices.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
