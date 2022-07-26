@@ -5,7 +5,7 @@
 
 [Ninja Ramen - Live webpage](https://yatechdev.github.io/CI_PP1_Ninja_Ramen/) (Right click to open in new tab)
 
-First project portfolio for Code Institute. A website for the imaginery Japanese restaurant based in Lincoln, UK.
+First project portfolio for Code Institute. A website for the imaginary Japanese restaurant based in Lincoln, UK.
 
 ## Table of Content
 
@@ -245,7 +245,7 @@ The links open in a new browser tab, so the user stays on the restaurant's websi
 - User Stories covered: 5, 6, 7, 9, 10, 11, 13, 18, 20
 
 ### About Us
-![ABOUTUS](docs/features/feat-about_us.png)
+![ABOUT](docs/features/feat-about_us.png)
 The "about us" section gives the user a greater description of the restaurant, and a short history and encourages the
 organization of meetings and events in the restaurant.
 
@@ -337,7 +337,7 @@ I used "W3C CSS Validation Service" to validate the CSS code.
 
 I have performed two validations:
 
-1. The Whole page showed errors and alerts related to imported CSS code from Font Awesome but showed no errors with my
+1. The Whole page showed errors and alerts related to imported CSS stylesheet from Font Awesome but showed no errors with my
    CSS.
 
 <details><summary>Whole Page</summary>
@@ -361,31 +361,31 @@ had empty content and this was causing an accessibility error. The problem has b
 new tests have been carried out, which showed no errors with the accessibility on the site.
 
 <details><summary>Home</summary>
-<img src="docs/accessibility/access-home.png" alt="Accesibility of Home-Page">
+<img src="docs/accessibility/access-home.png" alt="Accessibility of Home-Page">
 </details>
 
 <details><summary>About</summary>
-<img src="docs/accessibility/access-about.png" alt="Accesibility of About-Page">
+<img src="docs/accessibility/access-about.png" alt="Accessibility of About-Page">
 </details>
 
 <details><summary>Menu</summary>
-<img src="docs/accessibility/access-menu.png" alt="Accesibility of Menu-Page">
+<img src="docs/accessibility/access-menu.png" alt="Accessibility of Menu-Page">
 </details>
 
 <details><summary>Gallery</summary>
-<img src="docs/accessibility/access-gallery.png" alt="Accesibility of Gallery-Page">
+<img src="docs/accessibility/access-gallery.png" alt="Accessibility of Gallery-Page">
 </details>
 
 <details><summary>Contact</summary>
-<img src="docs/accessibility/access-contact.png" alt="Accesibility of Contact-Page">
+<img src="docs/accessibility/access-contact.png" alt="Accessibility of Contact-Page">
 </details>
 
 <details><summary>404</summary>
-<img src="docs/accessibility/access-404.png" alt="Accesibility of 404-Page">
+<img src="docs/accessibility/access-404.png" alt="Accessibility of 404-Page">
 </details>
 
 <details><summary>ThankYou</summary>
-<img src="docs/accessibility/access-thankyou.png" alt="Accesibility of ThankYou-Page">
+<img src="docs/accessibility/access-thankyou.png" alt="Accessibility of ThankYou-Page">
 </details>
 
 ### Performance
