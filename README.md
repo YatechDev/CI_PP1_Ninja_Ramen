@@ -366,8 +366,8 @@ I used "W3C CSS Validation Service" to validate the CSS code.
 
 I have performed two validations:
 
-1. The Whole page showed errors and alerts related to imported CSS stylesheet from Font Awesome but showed no errors with my
-   CSS.
+1. The Whole page showed errors and alerts related to imported CSS stylesheet from Font Awesome but showed no errors
+   with my CSS.
 
 <details><summary>Whole Page</summary>
 <img src="docs/validation/validation_whole_page_css.png" alt="Validation of Whole Page CSS">
@@ -386,8 +386,8 @@ I have performed two validations:
 
 I used "The WAVE WebAIM web accessibility evaluation tool" to test the code for accessibility.  
 The first test I conducted detected an error on each of the subpages. The label I used to create the "hamburger menu"
-had empty content and this was causing an accessibility error. The problem has been solved and described in the "Bugs" section, and
-new tests have been carried out, which showed no errors with the accessibility on the site.
+had empty content and this was causing an accessibility error. The problem has been solved and described in the "Bugs"
+section, and new tests have been carried out, which showed no errors with the accessibility on the site.
 
 <details><summary>Home</summary>
 <img src="docs/accessibility/access-home.png" alt="Accessibility of Home-Page">
@@ -832,9 +832,10 @@ Forking the GitHub repository:
 3. Choose where you want to save your forked repository.
 
 ## Credits
-1. [CI TEMPLATE](https://github.com/Code-Institute-Org/gitpod-full-template) - This repository was created using the template proposed by Code Institute
-2. [Canva](https://www.canva.com/) - All photos and graphics are from Canva and are used under a license I have. I made most of the graphic elements
-   myself using this program.
+1. [CI TEMPLATE](https://github.com/Code-Institute-Org/gitpod-full-template) - This repository was created using the
+   template proposed by Code Institute
+2. [Canva](https://www.canva.com/) - All photos and graphics are from Canva and are used under a license I have. I made
+   most of the graphic elements myself using this program.
 3. [JetBrains](https://www.jetbrains.com/webstorm/) - I use their software - WebStorm - as my main IDE.
 4. [Animated Label - Tutorial](https://www.youtube.com/watch?v=524ycUqs3f0) - This tutorial taught me how to make
    animated labels for form input. I partially modified the code, although the idea is taken from this tutorial.
@@ -842,8 +843,8 @@ Forking the GitHub repository:
    has been modified in large part by me, although the idea and the skeleton come from here.
 6. [Code Institute](https://codeinstitute.net/) - As the main source of my knowledge.
 7. [ZTM](https://zerotomastery.io/), [CodeCademy](https://www.codecademy.com/), [EduWeb](https://eduweb.pl/)
-   , [Strefa Kursow](https://strefakursow.pl/) - As additional places where I often do additional courses and enrich my
-   knowledge.
+   , [Strefa Kursow](https://strefakursow.pl/), [W3Schools](https://www.w3schools.com/), [DailyDev](https://daily.dev/) -
+   As additional places where I often do additional courses or read articles and enrich my knowledge.
 
 ## Acknowledgements
 Huge thanks to:
