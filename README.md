@@ -108,7 +108,10 @@ First project portfolio for Code Institute. A website for the imaginary Japanese
 20. As a site owner, I want to provide links to restaurant's social media.
 21. As a site owner, I want to show pictures of the restaurant for users.
 
-## Design
+[Back to top &uarr;](#ninja-ramen)
+<hr>
+
+## Design 
 
 ### Design Choices
 As a design for the website, I did not use ready-made colour palettes, and instead, I decided to choose themed photos as
@@ -184,6 +187,9 @@ This is the prototype of the project that may change during its development.
 <img src="docs/wireframes/contact.png" alt="Wireframe of Contact-Page">
 </details>
 
+[Back to top &uarr;](#ninja-ramen)
+<hr>
+
 ## Technologies Used
 
 ### Languages
@@ -209,6 +215,9 @@ This is the prototype of the project that may change during its development.
 - [Favicon.io](https://favicon.io/) (favicon)
 - [Evernote](https://evernote.com/) (notes, screenshots)
 - [Grammarly](https://www.grammarly.com/) (typography)
+
+[Back to top &uarr;](#ninja-ramen)
+<hr>
 
 ## Features
 
@@ -295,6 +304,9 @@ home page.
 ![CONTACT SECTION](docs/features/feat-page_card.png)  
 Each of the subpages has a favicon, the name of the restaurant and the subpage on which the user is currently located.
 Thanks to these additions, the user can easily locate the opened tab among others in his browser.
+
+[Back to top &uarr;](#ninja-ramen)
+<hr>
 
 ## Validation
 
@@ -468,6 +480,9 @@ The website has been tested on the following browsers:
 - Opera
 - Microsoft Edge
 - Safari
+
+[Back to top &uarr;](#ninja-ramen)
+<hr>
 
 ### Testing user stories
 
@@ -709,6 +724,7 @@ The website has been tested on the following browsers:
 <img src="docs/user-stories/story-21-1.png" alt="Screenshot of testing user-stories">
 </details>
 
+[Back to top &uarr;](#ninja-ramen)
 <hr>
 
 ## Bugs
@@ -779,6 +795,8 @@ Tested on iPhone 11 PRO & iPhone XR
 <img src="docs/bugs/accessibility-after.png" alt="Screenshot for fixed accessibility check error">
 </details>
 
+[Back to top &uarr;](#ninja-ramen)
+<hr>
 
 ## Deployment
 The website was deployed on GitHub by using following steps:
@@ -817,3 +835,6 @@ Huge thanks to:
   me to focus on my work and keep me motivated to act all the time.
 - To my family and friends - for being a great support and for their motivation.
 - The entire Code Institute community on slack for great understanding and motivation every day!
+
+[Back to top &uarr;](#ninja-ramen)
+<hr>
