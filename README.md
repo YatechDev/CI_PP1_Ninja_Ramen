@@ -53,6 +53,11 @@ details, online form and links to social media.
 
 ## Project Goals
 
+The project goal is to create a website for a restaurant specializing in Japanese cuisine, which will be simple,
+pleasant to use, responsive for mobile phone users and compatible with all popular browsers. 
+
+The main goal of the owner is to promote his restaurant on the Internet and reach the largest community possible.
+
 ### User Goals
 - Find a restaurant with oriental cuisine.
 - Find a restaurant where you can eat good quality food.
