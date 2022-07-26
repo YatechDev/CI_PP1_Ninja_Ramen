@@ -555,32 +555,34 @@ The website has been tested on the following browsers:
 
 8. As a returning user, I want to quickly check the menu.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature**  | **Action**                           | **Expected Result**                   | **Actual Result** |
+|--------------|--------------------------------------|---------------------------------------|-------------------|
+| Menu subpage | Click on "Menu" on the Navbar        | User can quickly move to menu section | PASS              |
+| Menu button  | Click on "View Menu" in Hero Section | User can quickly move to menu section | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-8-1.png" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-8-2.png" alt="Screenshot of testing user-stories">
 </details>
 
 9. As a returning user, I want to know about any changes in opening times.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature** | **Action**              | **Expected Result**                               | **Actual Result** |
+|-------------|-------------------------|---------------------------------------------------|-------------------|
+| Footer      | Scroll down on any page | User can see the opening hours of the restaurant. | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-9-1.png" alt="Screenshot of testing user-stories">
 </details>
 
 10. As a returning user, I want to check the contact details.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature** | **Action**              | **Expected Result**                         | **Actual Result** |
+|-------------|-------------------------|---------------------------------------------|-------------------|
+| Footer      | Scroll down on any page | User can see the details of the restaurant. | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-10-1.png" alt="Screenshot of testing user-stories">
 </details>
 
 11. As a returning user, I want to check if restaurant have any social media.
