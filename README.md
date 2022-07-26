@@ -5,7 +5,9 @@
 
 [Ninja Ramen - Live webpage](https://yatechdev.github.io/CI_PP1_Ninja_Ramen/) (Right click to open in new tab)
 
-First project portfolio for Code Institute. A website for the imaginary Japanese restaurant based in Lincoln, UK.
+First project portfolio for Code Institute. A website for the imaginary Japanese restaurant based in Lincoln, UK.  
+The aim of this project is to demonstrate skills in HTML and CSS and only these two languages were used in the
+development. No frameworks or other languages have been used.
 
 ## Table of Content
 
