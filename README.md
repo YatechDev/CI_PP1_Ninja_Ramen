@@ -1,13 +1,21 @@
 # Ninja Ramen 
-(Developer: Mateusz Smalarz aka YatechDev)
+### A website for the imaginary Japanese restaurant based in Lincoln, UK.  
+#### (Developer: Mateusz Smalarz aka [YatechDev](https://github.com/YatechDev))
 
 ![Mockup image](docs/responsiveness.png)
 
 [Ninja Ramen - Live webpage](https://yatechdev.github.io/CI_PP1_Ninja_Ramen/) (Right click to open in new tab)
 
-First project portfolio for Code Institute. A website for the imaginary Japanese restaurant based in Lincoln, UK.  
+My first portfolio project for [Code Institute](https://codeinstitute.net/) where I study for a diploma - <strong>LVL 5
+in Full Stack Software Development.</strong>  
+
 The aim of this project is to demonstrate skills in HTML and CSS and only these two languages were used in the
-development. No frameworks or other languages have been used.
+development. No frameworks or other languages have been used.  
+
+The website is responsive to lower screen resolutions, tablets and mobile phones.  
+It is also compatible with all popular web browsers.  
+
+The website is divided into subpages, but all of them are consistent, simple and pleasant to navigate.
 
 ## Table of Content
 
