@@ -501,52 +501,56 @@ The website has been tested on the following browsers:
 
 3. As a first time user, I want to know the restaurant menu & prices.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature**  | **Action**                             | **Expected Result**                                      | **Actual Result** |
+|--------------|----------------------------------------|----------------------------------------------------------|-------------------|
+| Menu Subpage | Click button / link to go to menu page | User can easily find the positions in the menu & prices. | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-3-1.png" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-3-2.png" alt="Screenshot of testing user-stories">
 </details>
 
 4. As a first time user, I want to know the story about the restaurant.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature**      | **Action**                     | **Expected Result**                                          | **Actual Result** |
+|------------------|--------------------------------|--------------------------------------------------------------|-------------------|
+| Restaurant Goals | Scroll down on home page       | User can see information about restaurant goals.             | PASS              |
+| About subpage    | Click on "About" on the navbar | User can see more detailed information about the restaurant. | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-4-1.png" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-4-2.png" alt="Screenshot of testing user-stories">
 </details>
 
 5. As a first time user, I want to know where restaurant is located.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature** | **Action**                       | **Expected Result**                                      | **Actual Result** |
+|-------------|----------------------------------|----------------------------------------------------------|-------------------|
+| Google Map  | Click on "Contact" on the navbar | User can see Google Map with pinned restaurant location. | PASS              |
+| Footer      | Scroll down on any page          | User can see the address of the restaurant.              | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-5-1.png" alt="Screenshot of testing user-stories">
 </details>
 
 6. As a first time user, I want to know restaurant opening time.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature** | **Action**              | **Expected Result**                               | **Actual Result** |
+|-------------|-------------------------|---------------------------------------------------|-------------------|
+| Footer      | Scroll down on any page | User can see the opening hours of the restaurant. | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-6-1.png" alt="Screenshot of testing user-stories">
 </details>
 
 7. As a first time user, I want to know the restaurant contact details.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature** | **Action**              | **Expected Result**                         | **Actual Result** |
+|-------------|-------------------------|---------------------------------------------|-------------------|
+| Footer      | Scroll down on any page | User can see the details of the restaurant. | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-7-1.png" alt="Screenshot of testing user-stories">
 </details>
 
 8. As a returning user, I want to quickly check the menu.
