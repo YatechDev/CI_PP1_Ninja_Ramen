@@ -122,6 +122,10 @@ nav ul li a:hover{
     display: none;
 }
 
+.check-btn span {
+    display: none;
+}
+
 #hamburger{
     display: none;
 }
