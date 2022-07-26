@@ -480,10 +480,209 @@ The website has been tested on the following browsers:
 | Gallery                         | Click on the gallery                | User is able to see some examples of the meals                                       | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-stories/story-1-1.png">
-<img src="docs/user-stories/story-1-2.png">
-<img src="docs/user-stories/story-1-3.png">
+<img src="docs/user-stories/story-1-1.png" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-1-2.png" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-1-3.png" alt="Screenshot of testing user-stories">
 </details>
+
+2. As a first time user, I want to easily navigate the page.
+
+| **Feature**    | **Action**             | **Expected Result**                                                                                                                          | **Actual Result** |
+|----------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| Navigation Bar | Click on logo or links | Navbar is <strong>easy to see and use.</strong> While scrolling, the page is always at the top. The logo on the left leads to the home page. | PASS              |
+| Buttons        | Click on the button    | User can find buttons in hero section, 404 and thankyou page for improved site navigation                                                    | PASS              |
+
+3. As a first time user, I want to know the restaurant menu & prices.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+4. As a first time user, I want to know the story about the restaurant.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+5. As a first time user, I want to know where restaurant is located.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+6. As a first time user, I want to know restaurant opening time.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+7. As a first time user, I want to know the restaurant contact details.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+8. As a returning user, I want to quickly check the menu.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+9. As a returning user, I want to know about any changes in opening times.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+10. As a returning user, I want to check the contact details.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+11. As a returning user, I want to check if restaurant have any social media.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+12. As a returning user, I want to contact the restaurant online.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+13. As a returning user, I want to check the phone number for quick contact the restaurant.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+14. As a returning user, I want to quickly find the restaurant menu.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+15. As a site owner, I want to show what kind of cuisine is in our restaurant.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+16. As a site owner, I want users to easily navigate the website.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+17. As a site owner, I want users to easily find the restaurant menu.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+18. As a site owner, I want to provide contact details for users.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+19. As a site owner, I want to provide online contact form.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+20. As a site owner, I want to provide links to restaurant's social media.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+21. As a site owner, I want to show pictures of the restaurant for users.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|             |            |                     |                   |
+
+<details><summary>Screenshots</summary>
+<img src="" alt="Screenshot of testing user-stories">
+</details>
+
+<hr>
 
 ## Bugs
 1.
