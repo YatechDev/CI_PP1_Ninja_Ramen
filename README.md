@@ -541,6 +541,20 @@ Tested on iPhone 11 PRO & iPhone XR
 <img src="docs/bugs/contact_section-after.png" alt="Screenshot for fixed responsiveness of contact.html">
 </details>
 
+5.
+
+| **Bug**                                                                      | **Fix**                                                                                        |
+|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| Error with accessibility across the pages. Empty label for "hamburger menu". | Add < span > with text inside the label across the pages and use "display: none;" in css file. |
+
+<details><summary>Before</summary>
+<img src="docs/bugs/accessibility-before.png" alt="Screenshot of error with accessibility check.">
+</details>
+<details><summary>After</summary>
+<img src="docs/bugs/accessibility-after.png" alt="Screenshot for fixed accessibility check error">
+</details>
+
+
 ## Deployment
 The website was deployed on GitHub by using following steps:
 1. Login into GitHub and locate the repository - [CI_PP1_Ninja_Ramen](https://github.com/YatechDev/CI_PP1_Ninja_Ramen)
