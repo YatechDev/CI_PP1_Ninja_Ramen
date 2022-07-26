@@ -577,9 +577,9 @@ The website has been tested on the following browsers:
 
 10. As a returning user, I want to check the contact details.
 
-| **Feature** | **Action**              | **Expected Result**                         | **Actual Result** |
-|-------------|-------------------------|---------------------------------------------|-------------------|
-| Footer      | Scroll down on any page | User can see the details of the restaurant. | PASS              |
+| **Feature** | **Action**              | **Expected Result**                                 | **Actual Result** |
+|-------------|-------------------------|-----------------------------------------------------|-------------------|
+| Footer      | Scroll down on any page | User can see the contact details of the restaurant. | PASS              |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-stories/story-10-1.png" alt="Screenshot of testing user-stories">
@@ -644,62 +644,69 @@ The website has been tested on the following browsers:
 
 16. As a site owner, I want users to easily navigate the website.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature**    | **Action**             | **Expected Result**                                                                                                                          | **Actual Result** |
+|----------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| Navigation Bar | Click on logo or links | Navbar is <strong>easy to see and use.</strong> While scrolling, the page is always at the top. The logo on the left leads to the home page. | PASS              |
+| Buttons        | Click on the button    | User can find buttons in hero section, 404 and thankyou page for improved site navigation                                                    | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-16-1.png" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-16-2.png" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-16-3.png" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-16-4.png" alt="Screenshot of testing user-stories">
 </details>
 
 17. As a site owner, I want users to easily find the restaurant menu.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature**  | **Action**                           | **Expected Result**                   | **Actual Result** |
+|--------------|--------------------------------------|---------------------------------------|-------------------|
+| Menu subpage | Click on "Menu" on the Navbar        | User can quickly move to menu section | PASS              |
+| Menu button  | Click on "View Menu" in Hero Section | User can quickly move to menu section | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-17-1.png" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-17-2.png" alt="Screenshot of testing user-stories">
 </details>
 
 18. As a site owner, I want to provide contact details for users.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature** | **Action**              | **Expected Result**                                | **Actual Result** |
+|-------------|-------------------------|----------------------------------------------------|-------------------|
+| Footer      | Scroll down on any page | User can see the contact details of the restaurant | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-18-1.png" alt="Screenshot of testing user-stories">
 </details>
 
 19. As a site owner, I want to provide online contact form.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature**  | **Action**                       | **Expected Result**                                                      | **Actual Result** |
+|--------------|----------------------------------|--------------------------------------------------------------------------|-------------------|
+| Contact form | Click on "Contact" on the Navbar | User can quickly move to the contact section and see online contact form | PASS              |
+
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-19-1.png" alt="Screenshot of testing user-stories">
 </details>
 
 20. As a site owner, I want to provide links to restaurant's social media.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature** | **Action**              | **Expected Result**                                  | **Actual Result** |
+|-------------|-------------------------|------------------------------------------------------|-------------------|
+| Footer      | Scroll down on any page | User can see the links for restaurant's social media | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-20-1.png" alt="Screenshot of testing user-stories">
 </details>
 
 21. As a site owner, I want to show pictures of the restaurant for users.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature**     | **Action**                       | **Expected Result**                                            | **Actual Result** |
+|-----------------|----------------------------------|----------------------------------------------------------------|-------------------|
+| Gallery subpage | Click on "Gallery" on the Navbar | User can quickly move to Gallery section and see the pictures  | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-21-1.png" alt="Screenshot of testing user-stories">
 </details>
 
 <hr>
