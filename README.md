@@ -15,7 +15,9 @@ development. No frameworks or other languages have been used.
 The website is responsive to lower screen resolutions, tablets and mobile phones.  
 It is also compatible with all popular web browsers.  
 
-The website is divided into subpages, but all of them are consistent, simple and pleasant to navigate.
+The website is divided into subpages, but all of them are consistent, simple and pleasant to navigate.  
+It contains easy & fun to view elements and all the necessary information, such as the restaurant menu, contact
+details, online form and links to social media.
 
 ## Table of Content
 
