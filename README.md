@@ -587,52 +587,59 @@ The website has been tested on the following browsers:
 
 11. As a returning user, I want to check if restaurant have any social media.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature** | **Action**              | **Expected Result**                                  | **Actual Result** |
+|-------------|-------------------------|------------------------------------------------------|-------------------|
+| Footer      | Scroll down on any page | User can see the links for restaurant's social media | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-11-1.png" alt="Screenshot of testing user-stories">
 </details>
 
 12. As a returning user, I want to contact the restaurant online.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature**  | **Action**                       | **Expected Result**                                                      | **Actual Result** |
+|--------------|----------------------------------|--------------------------------------------------------------------------|-------------------|
+| Contact form | Click on "Contact" on the Navbar | User can quickly move to the contact section and see online contact form | PASS              |
+
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-12-1.png" alt="Screenshot of testing user-stories">
 </details>
 
 13. As a returning user, I want to check the phone number for quick contact the restaurant.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature** | **Action**              | **Expected Result**                        | **Actual Result** |
+|-------------|-------------------------|--------------------------------------------|-------------------|
+| Footer      | Scroll down on any page | User can see the restaurant's phone number | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-13-1.png" alt="Screenshot of testing user-stories">
 </details>
 
 14. As a returning user, I want to quickly find the restaurant menu.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature**  | **Action**                           | **Expected Result**                   | **Actual Result** |
+|--------------|--------------------------------------|---------------------------------------|-------------------|
+| Menu subpage | Click on "Menu" on the Navbar        | User can quickly move to menu section | PASS              |
+| Menu button  | Click on "View Menu" in Hero Section | User can quickly move to menu section | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-14-1.png" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-14-2.png" alt="Screenshot of testing user-stories">
 </details>
 
 15. As a site owner, I want to show what kind of cuisine is in our restaurant.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-|             |            |                     |                   |
+| **Feature**                     | **Action**                          | **Expected Result**                                                                  | **Actual Result** |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------|
+| Hero Section & Restaurant Goals | First section displayed on the page | User can see straight away and read what type of cuisine he can expect in restaurant | PASS              |
+| Menu                            | Check the menu                      | Find what type of food restaurant has to offer                                       | PASS              |
+| Gallery                         | Click on the gallery                | User is able to see some examples of the meals                                       | PASS              |
 
 <details><summary>Screenshots</summary>
-<img src="" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-15-1.png" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-15-2.png" alt="Screenshot of testing user-stories">
+<img src="docs/user-stories/story-15-3.png" alt="Screenshot of testing user-stories">
 </details>
 
 16. As a site owner, I want users to easily navigate the website.
