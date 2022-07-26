@@ -68,7 +68,7 @@ First project portfolio for Code Institute. A website for the imaginery Japanese
 - People who want to book a table for a meeting in a place with a high standard.
 - People who are looking for a place to celebrate a birthday.
 - People who want to organise parties & events.
-- 
+
 ### User Requirements and Expectations
 - A website that is quick to load.
 - Responsive website for mobile devices.
@@ -355,11 +355,10 @@ I have performed two validations:
 
 ### Accessibility
 
-I used "The WAVE WebAIM web accessibility evaluation tool" to test the code for accessibility and the same error
-appeared on each of the subpages.
-The label for input has an icon in it for a "hamburger menu" purpose, and has no other content. The tool treats this as an
-error.  
-No other errors were detected on any of the subpages.
+I used "The WAVE WebAIM web accessibility evaluation tool" to test the code for accessibility.  
+The first test I conducted detected an error on each of the subpages. The label I used to create the "hamburger menu"
+had empty content and this was causing an accessibility error. The problem has been solved and described in the "Bugs" section, and
+new tests have been carried out, which showed no errors with the accessibility on the site.
 
 <details><summary>Home</summary>
 <img src="docs/accessibility/access-home.png" alt="Accesibility of Home-Page">
